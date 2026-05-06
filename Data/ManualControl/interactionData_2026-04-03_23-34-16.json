@@ -1,0 +1,115 @@
+{
+  "startTime": "2026-04-03 23:34:16",
+  "moveCount": 9,
+  "resizeCount": 4,
+  "interactions": [
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:34:29"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:34:36"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:34:41"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:34:55"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 23:35:09"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:35:18"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:35:26"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 23:35:33"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:35:45"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:36:03"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 23:36:10"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 23:36:20"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:36:22"
+    }
+  ],
+  "moveInteractions": [
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:34:29"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:34:36"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:34:41"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:34:55"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:35:18"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:35:26"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:35:45"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:36:03"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 23:36:22"
+    }
+  ],
+  "resizeInteractions": [
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 23:35:09"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 23:35:33"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 23:36:10"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 23:36:20"
+    }
+  ]
+}
