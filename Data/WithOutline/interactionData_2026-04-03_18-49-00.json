@@ -1,0 +1,155 @@
+{
+  "startTime": "2026-04-03 18:49:00",
+  "moveCount": 13,
+  "resizeCount": 5,
+  "interactions": [
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:49:56"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:49:57"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:00"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:30"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:39"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:44"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:46"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:52"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:58"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:51:05"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:51:14"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:51:17"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:23"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:29"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:33"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:51:42"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:46"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:52"
+    }
+  ],
+  "moveInteractions": [
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:49:56"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:49:57"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:00"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:30"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:39"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:44"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:46"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:52"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:50:58"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:51:05"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:51:14"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:51:17"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:51:42"
+    }
+  ],
+  "resizeInteractions": [
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:23"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:29"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:33"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:46"
+    },
+    {
+      "typeOfInteraction": "Resize",
+      "interactionTime": "2026-04-03 18:51:52"
+    }
+  ]
+}
