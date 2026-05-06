@@ -1,0 +1,242 @@
+{
+  "startTime": "2026-04-03 18:44:41",
+  "moveCount": 29,
+  "resizeCount": 0,
+  "interactions": [
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:51"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:55"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:55"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:56"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:59"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:59"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:01"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:01"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:03"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:09"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:09"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:16"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:16"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:35"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:38"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:39"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:41"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:45"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:45"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:48"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:57"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:59"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:10"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:19"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:20"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:26"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:28"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:31"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:31"
+    }
+  ],
+  "moveInteractions": [
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:51"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:55"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:55"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:56"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:59"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:44:59"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:01"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:01"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:03"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:09"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:09"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:16"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:16"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:35"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:38"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:39"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:41"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:45"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:45"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:48"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:57"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:45:59"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:10"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:19"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:20"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:26"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:28"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:31"
+    },
+    {
+      "typeOfInteraction": "Move",
+      "interactionTime": "2026-04-03 18:46:31"
+    }
+  ],
+  "resizeInteractions": []
+}
